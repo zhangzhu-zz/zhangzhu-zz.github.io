@@ -41,7 +41,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **SCI Journal Paper**
 - Journal of Civil Structural Health Monitoring, 2024, doi: 10.1007/s13349-024-00816-7.
 </div>
-
+</div>
 - Bin Wang, Chunqi Zhu, Eryu Zhu, **Zhu Zhang**, Guosen Ji, [Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level](https://www.sciencedirect.com/science/article/pii/S2666165924001686?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 - Chunqi Zhu, Eryu Zhu, Bin Wang, **Zhu Zhang**, Mingyang Li, [Mesoscale fracture simulation of recycled aggregate concrete under uniaxial compression based on cohesive zone model](https://www.sciencedirect.com/science/article/pii/S2666165924001625?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100481.
 - Bin Wang, Eryu Zhu, Chunqi Zhu, **Zhu Zhang**, [Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001295?via%3Dihub), Theoretical and Applied Fracture Mechanics, 2023, doi: 10.1016/j.tafmec.2023.103866.
