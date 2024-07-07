@@ -18,10 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am now a Ph.D. Candidate at School of Civil Engineering, <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>Beijing Jiaotong University</span></strong></a>. I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts. Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research. 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>School of Civil Engineering</span></strong></a>, <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>Beijing Jiaotong University</span></strong></a>. I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts. Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research. 
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper on 'Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge' Accepted by Journal of Civil Structural Health Monitoring 2024.  (JCR Q1)
