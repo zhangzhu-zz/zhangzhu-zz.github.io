@@ -19,6 +19,7 @@ redirect_from:
 
 # About Me
 I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.cn/), [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts.
+
 <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an email.
 
 # 🔥 News
