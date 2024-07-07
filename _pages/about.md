@@ -34,7 +34,7 @@ I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'><strong><span id
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSHM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge](https://10.1007/s13349-024-00816-7)
+[Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge](https://link.springer.com/article/10.1007/s13349-024-00816-7)
 
 **Zhu Zhang**, Eryu Zhu, Bin Wang, Ye Chen
 
@@ -42,8 +42,6 @@ I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'><strong><span id
 - Journal of Civil Structural Health Monitoring, 2024, doi: 10.1007/s13349-024-00816-7.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2023.09* First Prize Scholarship 
