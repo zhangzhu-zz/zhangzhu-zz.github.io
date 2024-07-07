@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 I am now a Ph.D. Candidate at [School of Civil Engineering]((https://civil.bjtu.edu.cn/), [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts.
 
-<strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an email.
+<strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by **Journal of Civil Structural Health Monitoring**. (JCR Q1)
@@ -44,7 +44,7 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 - Journal of Civil Structural Health Monitoring, 2024, doi: 10.1007/s13349-024-00816-7.
 </div>
 </div>
-- Bin Wang, Chunqi Zhu, Eryu Zhu, _**Zhu Zhang**_, Guosen Ji, [Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level](https://www.sciencedirect.com/science/article/pii/S2666165924001686?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
+- [Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level](https://www.sciencedirect.com/science/article/pii/S2666165924001686?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 - Chunqi Zhu, Eryu Zhu, Bin Wang, _**Zhu Zhang**_, Mingyang Li, [Mesoscale fracture simulation of recycled aggregate concrete under uniaxial compression based on cohesive zone model](https://www.sciencedirect.com/science/article/pii/S2666165924001625?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100481.
 - Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001295?via%3Dihub), Theoretical and Applied Fracture Mechanics, 2023, doi: 10.1016/j.tafmec.2023.103866.
 - Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams](https://www.sciencedirect.com/science/article/abs/pii/S0167844222002889?via%3Dihub), Theoretical and Applied Fracture Mechanics, 2022, doi: 10.1016/j.tafmec.2022.103545.
