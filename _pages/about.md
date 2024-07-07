@@ -44,15 +44,22 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.
 </div>
 - Bin Wang, Chunqi Zhu, Eryu Zhu, **Zhu Zhang**, Guosen Ji, [Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level](https://www.sciencedirect.com/science/article/pii/S2666165924001686?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 </div>
-- Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 </div>
 - Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 </div>
-- Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 </div>
 - Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
 </div>
+</div>
 - Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
+</div>
+</div>
+- Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
+</div>
+</div>
+- Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level. Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.09* First Prize Scholarship 
