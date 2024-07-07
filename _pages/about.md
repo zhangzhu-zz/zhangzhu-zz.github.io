@@ -26,8 +26,8 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by **Journal of Civil Structural Health Monitoring**. (JCR Q1)
 - *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**. (JCR Q1)
 - *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**. (JCR Q1)
-- *2023.03*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. (JCR Q1)
-- *2022.08*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. (JCR Q1)
+- *2023.06*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. (JCR Q1)
+- *2022.10*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. (JCR Q1)
 - *2022.08*: New Journal Paper Accepted by **Construction and Building Materials**. (JCR Q1)
 - *2022.02*: New Journal Paper Accepted by **Journal of Engineering Mechanics**. (JCR Q2)
 
