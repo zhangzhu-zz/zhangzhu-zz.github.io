@@ -18,16 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'>School of Civil Engineering, <a href='https://en.bjtu.edu.cn/'>Beijing Jiaotong University. I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts. <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an email.
+I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'>School of Civil Engineering</span>, <a href='https://en.bjtu.edu.cn/'>Beijing Jiaotong University</span>. I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts. <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an email.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 New Journal Paper on '**Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge**' Accepted by **Journal of Civil Structural Health Monitoring** 2024.
-- *2024.06*: New Journal Paper on '**Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level**' Accepted by **Developments in the Built Environment** 2024.
-- *2024.06*: New Journal Paper on '**Mesoscale fracture simulation of recycled aggregate concrete under uniaxial compression based on cohesive zone model**' Accepted by **Developments in the Built Environment** 2024.
-- *2023.03*: New Journal Paper on '**Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical**' Accepted by **Theoretical and Applied Fracture Mechanics** 2023.
-- *2022.08*: New Journal Paper on '**Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams**' Accepted by **Theoretical and Applied Fracture Mechanics** 2022.
-- *2022.08*: New Journal Paper on '**Bond-slip behaviour of lightweight aggregate concrete based on virtual crack model with exponential softening characteristics**' Accepted by **Construction and Building Materials** 2022.
-- *2022.02*: New Journal Paper on '**Microscale Fracture Damage Analysis of Lightweight Aggregate Concrete under Tension and Compression Based on Cohesive Zone Model**' Accepted by **Journal of Engineering Mechanics** 2022.
+- *2024.06*: &nbsp;🎉🎉 New Journal Paper on '**Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge**' Accepted by **Journal of Civil Structural Health Monitoring**.
+- *2024.06*: New Journal Paper on '**Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level**' Accepted by **Developments in the Built Environment**.
+- *2024.06*: New Journal Paper on '**Mesoscale fracture simulation of recycled aggregate concrete under uniaxial compression based on cohesive zone model**' Accepted by **Developments in the Built Environment**.
+- *2023.03*: New Journal Paper on '**Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical**' Accepted by **Theoretical and Applied Fracture Mechanics**.
+- *2022.08*: New Journal Paper on '**Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams**' Accepted by **Theoretical and Applied Fracture Mechanics**.
+- *2022.08*: New Journal Paper on '**Bond-slip behaviour of lightweight aggregate concrete based on virtual crack model with exponential softening characteristics**' Accepted by **Construction and Building Materials**.
+- *2022.02*: New Journal Paper on '**Microscale Fracture Damage Analysis of Lightweight Aggregate Concrete under Tension and Compression Based on Cohesive Zone Model**' Accepted by **Journal of Engineering Mechanics**.
 
 # 📝 Publications 
 
@@ -39,7 +39,7 @@ I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'>School of Civil 
 **Zhu Zhang**, Eryu Zhu, Bin Wang, Ye Chen
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **SCI Journal Paper**
-- Journal of Civil Structural Health Monitoring, 2024, doi: 10.1007/s13349-024-00816-7.
+- **Journal of Civil Structural Health Monitoring**, 2024, doi: 10.1007/s13349-024-00816-7.
 </div>
 </div>
 - Bin Wang, Chunqi Zhu, Eryu Zhu, **Zhu Zhang**, Guosen Ji, [Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level](https://www.sciencedirect.com/science/article/pii/S2666165924001686?via%3Dihub), Developments in the Built Environment, 2024, doi: 10.1016/j.dibe.2024.100487.
