@@ -23,8 +23,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 New Journal Paper on Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge Accepted by Journal of Civil Structural Health Monitoring 2024. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 New Journal Paper on 'Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge' Accepted by Journal of Civil Structural Health Monitoring 2024. 
+- *2024.06*: &nbsp;🎉🎉 New Journal Paper on 'Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level' Accepted by Developments in the Built Environment 2024.
+- *2024.06*: &nbsp;🎉🎉 New Journal Paper on 'Mesoscale fracture simulation of recycled aggregate concrete under uniaxial compression based on cohesive zone model' Accepted by Developments in the Built Environment 2024.
+- *2023.03*: &nbsp;🎉🎉 New Journal Paper on 'Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical' Accepted by Theoretical and Applied Fracture Mechanics 2023.
+- *2022.08*: &nbsp;🎉🎉 New Journal Paper on 'Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams' Accepted by Theoretical and Applied Fracture Mechanics 2022.
+- *2022.08*: &nbsp;🎉🎉 New Journal Paper on 'Bond-slip behaviour of lightweight aggregate concrete based on virtual crack model with exponential softening characteristics' Accepted by Construction and Building Materials 2022.
+- *2022.02*: &nbsp;🎉🎉 New Journal Paper on 'Microscale Fracture Damage Analysis of Lightweight Aggregate Concrete under Tension and Compression Based on Cohesive Zone Model' Accepted by Journal of Engineering Mechanics 2022.
 
 # 📝 Publications 
 
