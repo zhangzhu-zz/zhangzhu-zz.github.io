@@ -38,7 +38,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.
 
 **Zhu Zhang**, Eryu Zhu, Bin Wang, Ye Chen
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **SCI Journal Paper**
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **SCI Journal Paper (JCR Q1)**
 - Journal of Civil Structural Health Monitoring, 2024, doi: 10.1007/s13349-024-00816-7.
 </div>
 </div>
