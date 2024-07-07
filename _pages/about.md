@@ -50,7 +50,7 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 - Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001295?via%3Dihub), Theoretical and Applied Fracture Mechanics, 2023, doi: 10.1016/j.tafmec.2023.103866
 - Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams](https://www.sciencedirect.com/science/article/abs/pii/S0167844222002889?via%3Dihub), Theoretical and Applied Fracture Mechanics, 2022, doi: 10.1016/j.tafmec.2022.103545
 - Bin Wang, Eryu Zhu, _**Zhu Zhang**_, Chunqi Zhu, [Bond-slip behaviour of lightweight aggregate concrete based on virtual crack model with exponential softening characteristics](https://www.sciencedirect.com/science/article/abs/pii/S0950061822020098?via%3Dihub), Construction and Building Materials, 2022, doi: 10.1016/j.conbuildmat.2022.128349
-- Bin Wang, Eryu Zhu, _**Zhu Zhang**_, [Microscale Fracture Damage Analysis of Lightweight Aggregate Concrete under Tension and Compression Based on Cohesive Zone Model](https://ascelibrary.org/doi/10.1061/%28ASCE%29EM.1943-7889.0002051), Journal of Engineering Mechanics, 2022, doi: 10.1061/(ASCE)EM.1943-7889.0002051
+- Bin Wang, Eryu Zhu, _**Zhu Zhang**_, [Microscale fracture damage analysis of lightweight aggregate concrete under tension and compression based on cohesive zone model](https://ascelibrary.org/doi/10.1061/%28ASCE%29EM.1943-7889.0002051), Journal of Engineering Mechanics, 2022, doi: 10.1061/(ASCE)EM.1943-7889.0002051
 
 # 🎖 Honors and Awards
 - *2023.09* First Prize Scholarship
