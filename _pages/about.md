@@ -34,7 +34,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSHM 2024</div><img src='images/CSHM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge**](https://link.springer.com/article/10.1007/s13349-024-00816-7)
+[Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge](https://link.springer.com/article/10.1007/s13349-024-00816-7)
 
 **Zhu Zhang**, Eryu Zhu, Bin Wang, Ye Chen
 
