@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>School of Civil Engineering</span></strong></a>, <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>Beijing Jiaotong University</span></strong></a>. I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts. <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong></a>. If you are interested in my work, please feel free to drop me an <a href='zhangzhu.bjtu.edu.cn'>email.
+I am now a Ph.D. Candidate at <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>School of Civil Engineering</span></strong></a>, <a href='https://en.bjtu.edu.cn/'><strong><span id='total_cit'>Beijing Jiaotong University</span></strong></a>. I am working under the mentorship of Prof. Eryu Zhu. My research interest includes Fracture Mechanics, Machine Learning, Structural Health Monitoring and Shocks & Struts. <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong></a>. If you are interested in my work, please feel free to drop me an email.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper on 'Application and comparison of GRNN, BPNN and RBFNN in the prediction of suspender frequency and tension on arch bridge' Accepted by Journal of Civil Structural Health Monitoring 2024.  (JCR Q1)
