@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-url                      : "zhangzhu.github.io"
+url                      : "zhangzhu-zz.github.io"
 title                    : "Zhu Zhang"
 description              : "Ph.D. Candidate at Beijing Jiaotong University"
 repository               : "zhangzhu-zz/zhangzhu.github.io"
