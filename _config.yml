@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhu Zhang"
-  avatar           : "images/ID-photo-512×512.png"
+  avatar           : "images/profile.png"
   bio              : "School of Civil Engineering, Beijing Jiaotong University"
   location         : "Beijing, China"
   employer         :
