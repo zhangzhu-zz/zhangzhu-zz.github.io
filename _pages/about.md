@@ -29,7 +29,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](https://en.bjtu.edu.
 - *2023.03*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. (JCR Q1)
 - *2022.08*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. (JCR Q1)
 - *2022.08*: New Journal Paper Accepted by **Construction and Building Materials**. (JCR Q1)
-- *2022.02*: New Journal Paper Accepted by **Journal of Engineering Mechanics**. (JCR Q1)
+- *2022.02*: New Journal Paper Accepted by **Journal of Engineering Mechanics**. (JCR Q2)
 
 # 📝 Publications 
 
