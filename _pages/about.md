@@ -59,5 +59,5 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. Candidate at School of Civil Engineering, Beijing Jiaotong University, Beijing, China
-- *2019.09 - 2022.06*, Master of Engineering in Civil Engineering, Beijing Jiaotong University, Beijing, China
-- *2015.09 - 2019.06*, Bachelor of Engineering in Road, Bridge, and River-Crossing Engineering, North China University of Water Resources and Electric Power, Zhengzhou, China
+- *2019.09 - 2022.06*, Master of Engineering, Beijing Jiaotong University, Beijing, China
+- *2015.09 - 2019.06*, Bachelor of Engineering, North China University of Water Resources and Electric Power, Zhengzhou, China
