@@ -53,7 +53,7 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 - Bin Wang, Eryu Zhu, _**Zhu Zhang**_, [Microscale fracture damage analysis of lightweight aggregate concrete under tension and compression based on cohesive zone model](https://ascelibrary.org/doi/10.1061/%28ASCE%29EM.1943-7889.0002051), Journal of Engineering Mechanics, 2022, doi: 10.1061/(ASCE)EM.1943-7889.0002051
 
 # 🎖 Honors and Awards
-- *2023.09* First Prize Scholarship of Beijing Jiaotong University (Top 1%)
+- *2023.09* First-Class Scholarship of Beijing Jiaotong University (Top 1%)
 - *2022.09* Admission Scholarship of Beijing Jiaotong University 
 - *2018.12* Overseas Alumni Scholarship of North China University of Water Resources and Electric Power (Top 1%)
 
