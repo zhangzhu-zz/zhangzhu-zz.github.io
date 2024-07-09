@@ -7,7 +7,7 @@
 
 # Site Settings
 url                      : "zhangzhu-zz.github.io"
-title                    : "Zhu Zhang"
+title                    : "Zhu Zhang (张铸)"
 description              : "Ph.D. Candidate at Beijing Jiaotong University"
 repository               : "zhangzhu-zz/zhangzhu.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhu Zhang"
+  name             : "Zhu Zhang (张铸)"
   avatar           : "images/profile.png"
   bio              : "School of Civil Engineering, Beijing Jiaotong University"
   location         : "Beijing, China"
