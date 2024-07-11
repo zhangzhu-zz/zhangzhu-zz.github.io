@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am now a Ph.D. Candidate at [School of Civil Engineering](https://civil.bjtu.edu.cn/), [Beijing Jiaotong University](https://en.bjtu.edu.cn/). My research interests include **Fracture Mechanics**, **Machine Learning**, **Structural Health Monitoring**, **Shocks & Struts**.
+I am now a Ph.D. Candidate at [School of Civil Engineering](http://en.civil.bjtu.edu.cn/), [Beijing Jiaotong University](https://en.bjtu.edu.cn/). My research interests include **Fracture Mechanics**, **Machine Learning**, **Structural Health Monitoring**, **Shocks & Struts**.
 
 <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
 
