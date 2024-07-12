@@ -63,4 +63,4 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 - *2015.09 - 2019.06*, Bachelor of Engineering, North China University of Water Resources and Electric Power, Zhengzhou, China
 
 # 📖 Professional Affiliations
-- *2024.04 - Present*, Member of the Chinese Society of Vibration Engineering
+- *2024.04 - Present*, Member of the Chinese Society for Vibration Engineering (CSVE)
