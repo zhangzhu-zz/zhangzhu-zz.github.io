@@ -54,7 +54,7 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 
 # 🎖 Honors and Awards
 - *2023 - 2024*, First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**
-- *2022 -2023*, Admission Scholarship of Beijing Jiaotong University 
+- *2022 - 2023*, Admission Scholarship of Beijing Jiaotong University 
 - *2018.12*, Overseas Alumni Scholarship of North China University of Water Resources and Electric Power **(Top 1%)**
 
 # 🏫 Educations
