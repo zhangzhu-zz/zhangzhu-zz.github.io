@@ -58,7 +58,7 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 - *2018.12*, Overseas Alumni Scholarship of North China University of Water Resources and Electric Power **(Top 1%)**
 
 # 🏫 Educations
-- *2022.09 - Present*, Ph.D. Candidate at School of Civil Engineering, Beijing Jiaotong University, Beijing, China
+- *2022.09 - Present*, Ph.D. Candidate, Beijing Jiaotong University, Beijing, China
 - *2019.09 - 2022.06*, Master of Engineering, Beijing Jiaotong University, Beijing, China
 - *2015.09 - 2019.06*, Bachelor of Engineering, North China University of Water Resources and Electric Power, Zhengzhou, China
 
