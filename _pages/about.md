@@ -23,6 +23,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.ed
 <strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉🎉 First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**.
 - *2024.06*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by **Journal of Civil Structural Health Monitoring**.
 - *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**.
 - *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**.
