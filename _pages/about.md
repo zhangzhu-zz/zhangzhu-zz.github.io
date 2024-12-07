@@ -28,6 +28,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.ed
 - *2024.06*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by **Journal of Civil Structural Health Monitoring**.
 - *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**.
 - *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**.
+- *2023.10*: &nbsp;🎉🎉🎉 First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**.
 - *2023.06*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**.
 - *2022.10*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. 
 - *2022.08*: New Journal Paper Accepted by **Construction and Building Materials**.
