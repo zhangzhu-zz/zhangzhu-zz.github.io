@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.edu.cn/), [Beijing Jiaotong University](https://bjtu.edu.cn/). My research interests include **Failure Analysis**, **Machine Learning**, **Structural Health Monitoring**, and **Energy-Harvesting Suspension System**.
 
-<strong><span id='total_cit'>Currently, I am deeply involved in specific projects related to Mesoscale Modelling of Concretes for my PhD research</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
+<strong><span id='total_cit'>Currently, I am deeply involved in my PhD research on Mesoscale Modelling of Concretes using X-CT</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉🎉 First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**.
