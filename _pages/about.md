@@ -23,17 +23,17 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.ed
 <strong><span id='total_cit'>Currently, I am deeply involved in my PhD research on Mesoscale Modelling of Concretes using X-CT</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by **Journal of Building Engineering**.
+- *2026.02*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by _**Journal of Building Engineering**_.
 - *2024.11*: &nbsp;🎉🎉🎉 First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**.
-- *2024.09*: New Journal Paper Accepted by **International Journal of Urban Sciences**.
-- *2024.06*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by **Journal of Civil Structural Health Monitoring**.
-- *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**.
-- *2024.06*: New Journal Paper Accepted by **Developments in the Built Environment**.
+- *2024.09*: New Journal Paper Accepted by _**International Journal of Urban Sciences**_.
+- *2024.06*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by _**Journal of Civil Structural Health Monitoring**_.
+- *2024.06*: New Journal Paper Accepted by _**Developments in the Built Environment**_.
+- *2024.06*: New Journal Paper Accepted by _**Developments in the Built Environment**_.
 - *2023.10*: &nbsp;🎉🎉🎉 First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**.
-- *2023.06*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**.
-- *2022.10*: New Journal Paper Accepted by **Theoretical and Applied Fracture Mechanics**. 
-- *2022.08*: New Journal Paper Accepted by **Construction and Building Materials**.
-- *2022.02*: New Journal Paper Accepted by **Journal of Engineering Mechanics**.
+- *2023.06*: New Journal Paper Accepted by _**Theoretical and Applied Fracture Mechanics**_.
+- *2022.10*: New Journal Paper Accepted by _**Theoretical and Applied Fracture Mechanics**_. 
+- *2022.08*: New Journal Paper Accepted by _**Construction and Building Materials**_.
+- *2022.02*: New Journal Paper Accepted by _**Journal of Engineering Mechanics**_.
 
 # 📝 Publications 
 
