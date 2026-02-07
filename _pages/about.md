@@ -23,6 +23,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.ed
 <strong><span id='total_cit'>Currently, I am deeply involved in my PhD research on Mesoscale Modelling of Concretes using X-CT</span></strong>. If you are interested in my work, please feel free to drop me an [email](mailto:zhangzhu@bjtu.edu.cn).
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by **Journal of Building Engineering**.
 - *2024.11*: &nbsp;🎉🎉🎉 First-Class Scholarship of Beijing Jiaotong University **(Top 1%)**.
 - *2024.09*: New Journal Paper Accepted by **International Journal of Urban Sciences**.
 - *2024.06*: &nbsp;🎉🎉🎉 New Journal Paper Accepted by **Journal of Civil Structural Health Monitoring**.
