@@ -36,7 +36,7 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.ed
 - *2022.02*: New Journal Paper Accepted by _**Journal of Engineering Mechanics**_.
 
 # 📝 Publications 
-
+- _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Chunqi Zhu, Jiacheng Li, Wenchao Cai, [Influence of initial pore defects on mechanical properties and environmental benefits of concrete: Experimental and numerical study](https://www.sciencedirect.com/science/article/abs/pii/S2352710226003773?via%3Dihub), _Journal of Building Engineering_, 2026, doi: 10.1016/j.jobe.2026.115556. **(JCR Q1、中科院二区TOP)**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSHM 2024</div><img src='images/CSHM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,9 +51,9 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 
 - Bin Wang, Chunqi Zhu, Eryu Zhu, _**Zhu Zhang**_, Guosen Ji, [Study on the size effect of dynamic tensile strength in lightweight concrete using Leca aggregates at the mesoscopic level](https://www.sciencedirect.com/science/article/pii/S2666165924001686?via%3Dihub), _Developments in the Built Environment_, 2024, doi: 10.1016/j.dibe.2024.100487. **(JCR Q1、中科院二区)**
 - Chunqi Zhu, Eryu Zhu, Bin Wang, _**Zhu Zhang**_, Mingyang Li, [Mesoscale fracture simulation of recycled aggregate concrete under uniaxial compression based on cohesive zone model](https://www.sciencedirect.com/science/article/pii/S2666165924001625?via%3Dihub), _Developments in the Built Environment_, 2024, doi: 10.1016/j.dibe.2024.100481. **(JCR Q1、中科院二区)**
-- Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001295?via%3Dihub), _Theoretical and Applied Fracture Mechanics_, 2023, doi: 10.1016/j.tafmec.2023.103866. **(JCR Q1、中科院二区)**
-- Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams](https://www.sciencedirect.com/science/article/abs/pii/S0167844222002889?via%3Dihub), _Theoretical and Applied Fracture Mechanics_, 2022, doi: 10.1016/j.tafmec.2022.103545. **(JCR Q1、中科院二区)**
-- Bin Wang, Eryu Zhu, _**Zhu Zhang**_, Chunqi Zhu, [Bond-slip behaviour of lightweight aggregate concrete based on virtual crack model with exponential softening characteristics](https://www.sciencedirect.com/science/article/abs/pii/S0950061822020098?via%3Dihub), _Construction and Building Materials_, 2022, doi: 10.1016/j.conbuildmat.2022.128349. **(JCR Q1、中科院一区)**
+- Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Size effect on the FPZ length in notched beams: Mesoscopic method and theoretical analytical](https://www.sciencedirect.com/science/article/abs/pii/S0167844223001295?via%3Dihub), _Theoretical and Applied Fracture Mechanics_, 2023, doi: 10.1016/j.tafmec.2023.103866. **(JCR Q1、中科院二区TOP)**
+- Bin Wang, Eryu Zhu, Chunqi Zhu, _**Zhu Zhang**_, [Effect of microstructural characteristics of lightweight aggregate concrete on fracture parameters of three-point bending notched beams](https://www.sciencedirect.com/science/article/abs/pii/S0167844222002889?via%3Dihub), _Theoretical and Applied Fracture Mechanics_, 2022, doi: 10.1016/j.tafmec.2022.103545. **(JCR Q1、中科院二区TOP)**
+- Bin Wang, Eryu Zhu, _**Zhu Zhang**_, Chunqi Zhu, [Bond-slip behaviour of lightweight aggregate concrete based on virtual crack model with exponential softening characteristics](https://www.sciencedirect.com/science/article/abs/pii/S0950061822020098?via%3Dihub), _Construction and Building Materials_, 2022, doi: 10.1016/j.conbuildmat.2022.128349. **(JCR Q1、中科院一区TOP)**
 - Bin Wang, Eryu Zhu, _**Zhu Zhang**_, [Microscale fracture damage analysis of lightweight aggregate concrete under tension and compression based on cohesive zone model](https://ascelibrary.org/doi/10.1061/%28ASCE%29EM.1943-7889.0002051), _Journal of Engineering Mechanics_, 2022, doi: 10.1061/(ASCE)EM.1943-7889.0002051. **(JCR Q1、中科院三区)**
 
 # 🏆 Honors and Awards
