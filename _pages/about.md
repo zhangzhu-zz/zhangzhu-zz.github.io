@@ -37,8 +37,8 @@ I am now a Ph.D. Candidate at [School of Civil Engineering](http://civil.bjtu.ed
 - *2022.02*: New Journal Paper Accepted by _**Journal of Engineering Mechanics**_.
 
 # 📝 Publications
-- _**Zhu Zhang**_, Eryu Zhu, Jiacheng Li, Bin Wang, Wenchao Cai, Chunqi Zhu, [Meso-structure segmentation of concrete CT image using lightweight DeepLabv3 plus with attention mechanisms: X-ray computed tomography and mesoscopic modeling](https://www.sciencedirect.com/science/article/abs/pii/S2352710226005152?via%3Dihub), _Journal of Building Engineering_, 2026, doi: 10.1016/j.jobe.2026.115694. **(JCR Q1、中科院二区TOP)**
-- _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Chunqi Zhu, Jiacheng Li, Wenchao Cai, [Influence of initial pore defects on mechanical properties and environmental benefits of concrete: Experimental and numerical study](https://www.sciencedirect.com/science/article/abs/pii/S2352710226003773?via%3Dihub), _Journal of Building Engineering_, 2026, doi: 10.1016/j.jobe.2026.115556. **(JCR Q1、中科院二区TOP)**
+- _**Zhu Zhang**_, Eryu Zhu, Jiacheng Li, Bin Wang, Wenchao Cai, Chunqi Zhu, [Meso-structure segmentation of concrete CT image using lightweight DeepLabv3 plus with attention mechanisms: X-ray computed tomography and mesoscopic modeling](https://www.sciencedirect.com/science/article/abs/pii/S2352710226005152?via%3Dihub), _Journal of Building Engineering_, 2026, doi: 10.1016/j.jobe.2026.115694. **(JCR Q1、中科院一区TOP)**
+- _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Chunqi Zhu, Jiacheng Li, Wenchao Cai, [Influence of initial pore defects on mechanical properties and environmental benefits of concrete: Experimental and numerical study](https://www.sciencedirect.com/science/article/abs/pii/S2352710226003773?via%3Dihub), _Journal of Building Engineering_, 2026, doi: 10.1016/j.jobe.2026.115556. **(JCR Q1、中科院一区TOP)**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSHM 2024</div><img src='images/CSHM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
