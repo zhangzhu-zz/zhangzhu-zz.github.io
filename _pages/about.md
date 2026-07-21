@@ -71,5 +71,5 @@ _**Zhu Zhang**_, Eryu Zhu, Bin Wang, Ye Chen
 
 # 📖 Professional Affiliations
 - *2024.09 - Present*, Student Membership of the Chinese Society of Theoretical and Applied Mechanics (CSTAM)
-- *2024.09 - Present*, Student Membership of the American Society of Civil Engineers (ASCE)
+- *2024.09 - Present*, Membership of the American Society of Civil Engineers (ASCE)
 - *2024.04 - Present*, Student Membership of the Chinese Society for Vibration Engineering (CSVE)
